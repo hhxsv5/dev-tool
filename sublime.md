@@ -98,7 +98,7 @@
 
 - HTML5: HTML5提示
 
-## 快捷键
+## 快捷键 for Windows
 
 - Ctrl+Shift+P 打开Package Control
 

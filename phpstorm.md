@@ -1,4 +1,4 @@
-# PHPStorm 配置 for Mac
+# PHPStorm 配置
 
 ## 基础配置
 
@@ -28,7 +28,7 @@
 
 - 配置PHP Interpreter
 
-## 快捷键
+## 快捷键 for Mac
 
 - 删除Update Project的快捷键: Command + T
 
