@@ -24,7 +24,7 @@
 
 - Wrapping and Braces: Class field/constant groups: Align fields in columns, Align constants 对齐字段和类常量等号
 
-- Mark modified tabs with asterisk
+- Mark modified tabs with asterisk 修改了未保存的文件标准星号
 
 - Structure: 配置在右侧，自动隐藏
 
