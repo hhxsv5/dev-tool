@@ -106,4 +106,4 @@
 
 - Alt + Up : 选中代码块儿
 
-- - Ctrl + R : Run
+- Ctrl + R : Run
