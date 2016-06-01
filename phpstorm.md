@@ -18,6 +18,12 @@
 
 - Code Folding: 关闭所有
 
+- Code Style: Align key-value pairs 对齐数组的箭头
+
+- Code Style: Add a comma after last element in multiline array 数组最后一个元素带上逗号
+
+- Wrapping and Braces: Class field/constant groups: Align fields in columns, Align constants 对齐字段和类常量等号
+
 - Mark modified tabs with asterisk
 
 - Structure: 配置在右侧，自动隐藏
