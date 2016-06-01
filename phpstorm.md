@@ -1,4 +1,4 @@
-# PHPStorm 配置
+# PHPStorm 配置 for Mac
 
 ## 基础配置
     
@@ -51,5 +51,9 @@
     - Command + Shift + U : 大小写切换
     - Command + Alt + T : 代码包围例如try catch
     - Command + Enter : 生成代码
+    - Command + Z : 撤销
+    - Command + Shift + Z : 反撤销
+    - Alt + Click : 多点编辑
+    - Command + Ctrl + G : 自动选中多点编辑
     - Alt + Up : 选中代码块儿
     - Ctrl + R : Run
