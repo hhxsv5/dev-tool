@@ -12,5 +12,10 @@ chmod +x ./addalias.sh
 ./addalias.sh
 ```
 
+- 验证是否设置成功
+```Bash
+ifconfig
+#看结果中lo0部分是否包含有10.200.10.1，有则成功
+
 [参考资料1](https://docs.docker.com/docker-for-mac/networking/#per-container-ip-addressing-is-not-possible)
 [参考资料2](https://gist.github.com/brandt/c2f9e8277c90a1c284770c7ca7966226)
