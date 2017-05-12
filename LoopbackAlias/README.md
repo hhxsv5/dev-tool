@@ -6,7 +6,7 @@
 sudo ifconfig lo0 alias 10.200.10.1/24
 ```
 
-- 永久方案
+- 永久方案: 利用launchctl来开机自动执行ifconfig设置别名命令
 ```Bash
 chmod +x ./addalias.sh
 ./addalias.sh
