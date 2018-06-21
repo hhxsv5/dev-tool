@@ -1,5 +1,5 @@
 # Tools
-> some tools for develop
+> Some tools for coding.
 
 ## IDE
 
