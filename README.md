@@ -3,9 +3,9 @@
 
 ## Shortcuts
 
-  - [PHpStorm]([https://github.com/hhxsv5/dev-tool/blob/master/phpstorm.md)
+  - [PHpStorm](https://github.com/hhxsv5/dev-tool/blob/master/phpstorm.md)
 
-  - [Sublime]([https://github.com/hhxsv5/dev-tool/blob/master/sublime.md)
+  - [Sublime](https://github.com/hhxsv5/dev-tool/blob/master/sublime.md)
   
 ## Docker
 
