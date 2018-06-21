@@ -1,7 +1,7 @@
 # Tools
 > some tools for develop
 
-## Shortcuts
+## IDE
 
   - [PHpStorm](https://github.com/hhxsv5/dev-tool/blob/master/phpstorm.md)
 
