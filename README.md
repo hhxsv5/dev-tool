@@ -3,7 +3,7 @@
 
 ## IDE
 
-  - [PHpStorm](https://github.com/hhxsv5/dev-tool/blob/master/phpstorm.md)
+  - [PhpStorm](https://github.com/hhxsv5/dev-tool/blob/master/phpstorm.md)
 
   - [Sublime](https://github.com/hhxsv5/dev-tool/blob/master/sublime.md)
   
@@ -15,4 +15,4 @@
 
 ## Shell
 
-  - [Second-Timer](https://github.com/hhxsv5/dev-tool/tree/master/secondtimer)
+  - [Second Timer](https://github.com/hhxsv5/dev-tool/tree/master/secondtimer)
